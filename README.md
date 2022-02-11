@@ -1,0 +1,1 @@
+This is a file that outlines the checksum process for error detection.
